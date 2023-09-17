@@ -1,0 +1,21 @@
+.home-container {
+    margin-top: 170px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    gap: 44px;
+}
+
+.home-title {
+    font-size: 129px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120px;
+}
+
+.home-desc {
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

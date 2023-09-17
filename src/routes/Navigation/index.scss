@@ -1,0 +1,17 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation-info {
+    display: flex;
+    gap: 44px;
+
+    .navigation-link {
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 61px;
+    }
+}

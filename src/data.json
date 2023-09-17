@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "CAPITÃ MARVEL",
+        "originalName": "Carol Danvers",
+        "imageUrl": "assets/heroes/heroOne.png"
+    },
+    {
+        "id": 2,
+        "name": "CAPITÃ MARVEL",
+        "originalName": "Carol Danvers",
+        "imageUrl": "assets/heroes/heroOne.png"
+    },
+    {
+        "id": 3,
+        "name": "CAPITÃ MARVEL",
+        "originalName": "Carol Danvers",
+        "imageUrl": "assets/heroes/heroOne.png"
+    },
+    {
+        "id": 4,
+        "name": "CAPITÃ MARVEL",
+        "originalName": "Carol Danvers",
+        "imageUrl": "assets/heroes/heroOne.png"
+    },
+    {
+        "id": 5,
+        "name": "CAPITÃ MARVEL",
+        "originalName": "Carol Danvers",
+        "imageUrl": "assets/heroes/heroOne.png"
+    }
+]
