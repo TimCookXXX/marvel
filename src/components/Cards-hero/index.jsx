@@ -3,7 +3,7 @@ import { useContext } from 'react';
 import { CardContext } from '../../context/Card';
 
 const CardsHero = () => {
-    const { cardData, setCardData } = useContext(CardContext)
+    const { cardData } = useContext(CardContext)
     return (
         <>
             {cardData.map((card) => {
